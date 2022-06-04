@@ -50,7 +50,7 @@ If you often start new projects that uses Expressjs, Pug and the [Parcel bundler
 - Run `yarn start` or `npm start`
 - Open your browser to `http://localhost:3000`
 
-https://user-images.githubusercontent.com/10350960/172025206-225b2123-20f5-4484-b5c0-c877d6afeb0f.mp4
+https://user-images.githubusercontent.com/10350960/172025662-3f82ded8-c459-4c89-a9a4-1329ceb0a704.mp4
 
 ## Where can I get more help, if I need it?
 

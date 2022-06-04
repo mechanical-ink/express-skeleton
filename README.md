@@ -37,6 +37,7 @@ The project also includes a [`.github` folder](https://github.com/project-calave
 
 - dependabot.yml - Setup to automatically keep the [project dependencies up to date](https://github.com/dependabot).
 - workflows/auto-merge.yml - This will automatically merge Dependabot pull request that are not a major version bump and, should all your CI tests and workflows pass. To use this, you will also need to configure a repository [environmental secret](https://docs.github.com/en/actions/security-guides/encrypted-secrets#creating-encrypted-secrets-for-a-repository) with a [personal access token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) that has repo scope.
+- workflows/codeql-analysis.yml - Uses the [GitHub CodeQL workflow](https://github.com/github/codeql-action) to nspect source code for possible security issues.
 
 ## Why is it useful?
 

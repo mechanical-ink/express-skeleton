@@ -20,7 +20,7 @@
   "author": "Schalk Neethling",
   "license": "MIT",
   "devDependencies": {
-    "nodemon": "^3.0.1",
+    "nodemon": "^3.0.2",
     "parcel-bundler": "^1.12.5"
   },
   "dependencies": {
